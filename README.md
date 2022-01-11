@@ -1,3 +1,6 @@
+
+# NOTE: This is the old repository, visit the new one at JappeOS/JappeOS
+
 # JappeOsDesktop
 
 Jappe os desktop is the desktop environment for Jappe os.
