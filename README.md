@@ -1,5 +1,5 @@
 
-# NOTE: This is the old repository, visit the new one at JappeOS/JappeOS
+# NOTE: This is the old repository, visit the new one at Jappe-OS/JappeOS
 
 # JappeOsDesktop
 
